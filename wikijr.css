@@ -1,0 +1,27 @@
+html {
+  background-image: url(/images/textures/light7.png);
+}
+
+h1 {
+  color: royalBlue;
+}
+ 
+h2 {
+  color: salmon;
+} 
+ 
+h3 {
+  color: salmon;
+}
+
+
+body{
+ font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+heading{
+   font-family: 'Nanum Gothic', sans-serif;
+font-size:20px; 
+}

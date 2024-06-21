@@ -1,0 +1,72 @@
+
+h1 {
+  color: black;
+  font-family:'Abril Fatface', cursive;
+  font-size:40px;
+}
+
+h2 {
+  color: black;
+  font-family:'Abril Fatface', cursive;
+  font-size:25px;
+  background-color:
+}
+
+h3 {
+  color: black;
+  font-family:'Abril Fatface', cursive;
+  font-size:20px;
+
+}
+
+body{
+  text-align: left;
+  font-family: 'Slabo 27px', serif;
+  font-size:20px;
+
+}
+
+
+#header {
+  text-align: center;
+  background-color:#FF4AC1;
+  margin:10px;
+  padding:35px;
+  border-radius:35px;
+}
+
+#content {
+  text-align: left;
+  background-color:#68B1CC;
+  padding:75px;
+  border-radius:75px;
+}
+
+#footer {
+  background-color:#3EB356;
+  margin:10px;
+  padding:50px;
+  border-radius:50px;
+}  
+ 
+.right {
+  position: absolute;
+  right: 30px;
+  width: 300px;
+  padding:40px; 
+    
+  left{
+  position: absolute;
+  right: 30px;
+  width: 400px;
+  padding:40px;
+      
+      
+      
+      
+      
+
+
+    
+
+
